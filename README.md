@@ -3,9 +3,9 @@ Zu drucken:
 
 1x Oberbau (von der Rückseite wo die Scharniere befestigt werden)
 
-1x PDU Gehäuse
+1x PDU_Gehäuse
 
-1x PDU Deckel
+1x PDU_Deckel
 
 1x Empfänger_Sender (von der linken/rechten Seite)
 
